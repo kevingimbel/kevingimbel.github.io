@@ -16,12 +16,14 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Rust
+    web_url: https://github.com/topics/rust
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/rust/rust.png
 
-  - name: Web design
+  - name: Go
+    web_url: https://github.com/topics/go
+    image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/go/go.png 
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Bash
+    web_url: https://github.com/topics/bash
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bash/bash.png 
